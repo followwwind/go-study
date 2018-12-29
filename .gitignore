@@ -10,3 +10,22 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+
+# JRebel
+rebel.xml
